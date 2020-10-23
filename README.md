@@ -25,6 +25,5 @@ print(reply)
 
 ## Contact to Me!
 - [Mail](mailto:decave27@gmail.com)
-- [STORM#9999](https://invite.gg/freeai)
 - [Github](https://github.com/decave27)
 
