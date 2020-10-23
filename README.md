@@ -21,7 +21,7 @@ print(reply)
 
 
 
-
+사용중에 오류가 있거나 버그를 발견하면 이슈에 
 
 ## Contact to Me!
 - [Mail](mailto:decave27@gmail.com)
